@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LLJ_CarInsuranceMS_RESTAPI", "LLJ_CarInsuranceMS_RESTAPI\LLJ_CarInsuranceMS_RESTAPI.csproj", "{79271E02-1390-4FBB-A20D-45E4165CFDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTApi.NunitTests", "RESTApi.NunitTests\RESTApi.NunitTests.csproj", "{AD43288A-FEAD-42B2-A756-B1C3DD200250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79271E02-1390-4FBB-A20D-45E4165CFDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79271E02-1390-4FBB-A20D-45E4165CFDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79271E02-1390-4FBB-A20D-45E4165CFDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79271E02-1390-4FBB-A20D-45E4165CFDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD43288A-FEAD-42B2-A756-B1C3DD200250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD43288A-FEAD-42B2-A756-B1C3DD200250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD43288A-FEAD-42B2-A756-B1C3DD200250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD43288A-FEAD-42B2-A756-B1C3DD200250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {125E4D49-DD08-4828-A325-A579C98EE83B}
+	EndGlobalSection
+EndGlobal

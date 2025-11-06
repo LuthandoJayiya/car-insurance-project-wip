@@ -1,0 +1,969 @@
+2024-05-10 18:34:09,760 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:34:09,806 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:34:09,812 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:34:09,812 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-10 18:34:46,868 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:34:46,927 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:34:46,928 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:34:46,934 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:34:46,934 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-10 18:35:33,740 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:36:57,885 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:36:57,895 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 18:36:57,895 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 18:36:57,929 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 18:36:57,929 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 18:36:57,929 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:36:57,930 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:36:57,933 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:36:57,933 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-10 18:40:07,305 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:40:07,319 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 18:40:07,319 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 18:40:07,343 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-10 18:40:07,343 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (0).
+2024-05-10 18:40:07,375 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-10 18:40:07,375 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-10 18:40:07,377 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 18:40:07,378 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 18:40:07,378 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:40:07,380 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:40:07,385 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:40:07,386 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-10 18:42:58,172 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,192 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 18:42:58,196 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:42:58,198 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,198 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 18:42:58,198 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,198 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 18:42:58,199 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 18:42:58,199 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 18:42:58,199 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,200 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 18:42:58,205 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,205 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 18:42:58,206 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-10 18:42:58,210 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-10 18:42:58,212 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,212 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 18:42:58,212 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,212 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 18:42:58,212 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,212 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-10 18:42:58,212 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-10 18:42:58,212 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-10 18:42:58,213 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,213 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 18:42:58,214 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-10 18:42:58,214 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (0).
+2024-05-10 18:42:58,234 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-10 18:42:58,234 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-10 18:42:58,235 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,236 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 18:42:58,236 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,236 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 18:42:58,236 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 18:42:58,236 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 18:42:58,236 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:42:58,237 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 18:42:58,238 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 18:42:58,238 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:42:58,242 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 18:42:58,242 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-10 19:04:41,989 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,018 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 19:04:42,023 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 19:04:42,026 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,026 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 19:04:42,026 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,026 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 19:04:42,027 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 19:04:42,028 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 19:04:42,028 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,029 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 19:04:42,032 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,032 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 19:04:42,033 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-10 19:04:42,038 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-10 19:04:42,039 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,040 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 19:04:42,040 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,040 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 19:04:42,040 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,040 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-10 19:04:42,040 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-10 19:04:42,040 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-10 19:04:42,042 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-10 19:04:42,042 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-10 19:04:42,043 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,043 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 19:04:42,043 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 19:04:42,043 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 19:04:42,043 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 19:04:42,043 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 19:04:42,043 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 19:04:42,044 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 19:04:42,044 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-10 22:12:08,190 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,219 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:12:08,225 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 22:12:08,229 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,229 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:12:08,229 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,229 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 22:12:08,230 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 22:12:08,230 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 22:12:08,232 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,232 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:12:08,237 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,237 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:12:08,238 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-10 22:12:08,244 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-10 22:12:08,245 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,246 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:12:08,246 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,246 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 22:12:08,246 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,246 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-10 22:12:08,246 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-10 22:12:08,246 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-10 22:12:08,247 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-10 22:12:08,247 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-10 22:12:08,248 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,248 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:12:08,248 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:12:08,248 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 22:12:08,248 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 22:12:08,248 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 22:12:08,248 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 22:12:08,249 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 22:12:08,249 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-10 22:45:17,477 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,504 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:45:17,508 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 22:45:17,515 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,515 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:45:17,515 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,515 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 22:45:17,516 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 22:45:17,516 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 22:45:17,517 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,517 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:45:17,520 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,520 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:45:17,521 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-10 22:45:17,525 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-10 22:45:17,526 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,526 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:45:17,527 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,527 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 22:45:17,527 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,527 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-10 22:45:17,527 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-10 22:45:17,527 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-10 22:45:17,533 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-10 22:45:17,533 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-10 22:45:17,535 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,535 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-10 22:45:17,535 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-10 22:45:17,535 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-10 22:45:17,535 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-10 22:45:17,535 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-10 22:45:17,536 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 22:45:17,537 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-10 22:45:17,538 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-10 22:45:17,548 [NonParallelWorker] INFO InsuranceClaimsController - GetAllInsuranceClaimsWithDrivers - Retrieving all insurance claims with drivers.
+2024-05-10 22:45:17,552 [NonParallelWorker] ERROR InsuranceClaimsController - GetAllInsuranceClaimsWithDrivers - An error occurred while retrieving insurance claims with drivers: Value cannot be null. (Parameter 'outer')
+2024-05-11 22:54:21,383 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,454 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-11 22:54:21,523 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-11 22:54:21,544 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,545 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-11 22:54:21,545 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,546 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-11 22:54:21,547 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-11 22:54:21,549 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-11 22:54:21,574 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,575 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-11 22:54:21,595 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,596 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-11 22:54:21,596 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-11 22:54:21,613 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-11 22:54:21,618 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,619 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-11 22:54:21,619 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,619 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-11 22:54:21,619 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,619 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-11 22:54:21,619 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-11 22:54:21,625 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-11 22:54:21,627 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-11 22:54:21,627 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-11 22:54:21,628 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,633 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-11 22:54:21,633 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-11 22:54:21,634 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-11 22:54:21,634 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-11 22:54:21,634 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-11 22:54:21,634 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-11 22:54:21,635 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-11 22:54:21,638 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-11 22:54:21,645 [NonParallelWorker] INFO InsuranceClaimsController - GetAllInsuranceClaimsWithDrivers - Retrieving all insurance claims with drivers.
+2024-05-11 22:54:21,648 [NonParallelWorker] ERROR InsuranceClaimsController - GetAllInsuranceClaimsWithDrivers - An error occurred while retrieving insurance claims with drivers: Value cannot be null. (Parameter 'outer')
+2024-05-11 22:54:32,622 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-11 22:54:32,629 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-11 22:54:32,629 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-11 22:54:32,629 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-11 22:54:32,629 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-11 22:54:32,632 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-11 22:54:32,725 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-11 22:54:32,725 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-11 22:54:32,726 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-11 22:54:32,753 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-11 22:54:32,756 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-11 22:54:32,779 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-11 22:54:32,779 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-11 22:54:32,779 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-11 22:54:32,784 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance agent with ID: 3
+2024-05-11 22:54:32,786 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance agent with ID: 1
+2024-05-11 22:54:32,789 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-11 22:54:32,789 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-11 22:54:32,789 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-11 22:54:32,789 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-11 22:54:32,790 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-11 22:54:32,790 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-11 22:54:32,790 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-11 22:54:32,790 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-11 22:54:32,791 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-11 22:54:32,791 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-11 22:54:32,791 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-11 22:54:32,791 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance agents: Object reference not set to an instance of an object.
+2024-05-12 20:21:14,317 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:21:14,423 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:21:14,536 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 20:21:14,580 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:21:14,581 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:21:14,582 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:21:14,583 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 20:21:14,588 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-12 20:21:14,655 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:21:14,657 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:21:14,708 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:21:14,709 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:21:14,750 [NonParallelWorker] WARN CustomersController - Customer with ID 2 not found.
+2024-05-12 20:21:14,763 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:21:14,763 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:21:14,763 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:21:14,764 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 20:21:14,764 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:21:14,764 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 3
+2024-05-12 20:21:14,777 [NonParallelWorker] INFO CustomersController - Deleted customer with ID: 2
+2024-05-12 20:40:19,627 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:19,748 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:40:19,879 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 20:40:19,915 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:19,916 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:40:19,917 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:19,918 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 20:40:19,926 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-12 20:40:19,975 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:19,976 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:40:20,017 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:20,017 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:40:20,066 [NonParallelWorker] WARN CustomersController - Customer with ID 2 not found.
+2024-05-12 20:40:20,082 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:20,082 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:40:20,082 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:20,082 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 20:40:20,082 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:20,083 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 3
+2024-05-12 20:40:20,093 [NonParallelWorker] INFO CustomersController - Deleted customer with ID: 2
+2024-05-12 20:40:20,098 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:20,098 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 20:40:20,098 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 20:40:20,098 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 20:40:20,098 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-12 20:40:20,098 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 20:40:20,100 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 20:40:20,102 [NonParallelWorker] ERROR CustomersController - An error occurred while retrieving all customers: Object reference not set to an instance of an object.
+2024-05-12 21:48:55,900 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-12 21:52:05,868 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-12 21:52:05,872 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving all repair shops: Object reference not set to an instance of an object.
+2024-05-12 21:52:13,141 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,207 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 21:52:13,264 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 21:52:13,283 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,284 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 21:52:13,284 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,285 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 21:52:13,287 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-12 21:52:13,312 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,313 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 21:52:13,331 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,331 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 21:52:13,349 [NonParallelWorker] WARN CustomersController - Customer with ID 2 not found.
+2024-05-12 21:52:13,354 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,355 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 21:52:13,355 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,355 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 21:52:13,355 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,355 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 3
+2024-05-12 21:52:13,360 [NonParallelWorker] INFO CustomersController - Deleted customer with ID: 2
+2024-05-12 21:52:13,363 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,363 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 21:52:13,363 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 21:52:13,363 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 21:52:13,363 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-12 21:52:13,363 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 21:52:13,364 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 21:52:13,364 [NonParallelWorker] ERROR CustomersController - An error occurred while retrieving all customers: Object reference not set to an instance of an object.
+2024-05-12 21:52:13,382 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 21:52:13,382 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 21:52:13,383 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-12 21:52:13,383 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-12 21:52:13,383 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-12 21:52:13,383 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-12 21:52:13,395 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 21:52:13,395 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 21:52:13,396 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-12 21:52:13,397 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 21:52:13,398 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 21:52:13,401 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 21:52:13,401 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 21:52:13,401 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-12 21:52:13,402 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance agent with ID: 3
+2024-05-12 21:52:13,405 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance agent with ID: 1
+2024-05-12 21:52:13,406 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 21:52:13,406 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 21:52:13,406 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-12 21:52:13,406 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-12 21:52:13,407 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 21:52:13,407 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 21:52:13,407 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-12 21:52:13,407 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-12 21:52:13,407 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-12 21:52:13,407 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-12 21:52:13,409 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-12 21:52:13,409 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance agents: Object reference not set to an instance of an object.
+2024-05-12 21:52:13,511 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,526 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 21:52:13,530 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-12 21:52:13,534 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,534 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 21:52:13,534 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,534 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-12 21:52:13,535 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-12 21:52:13,535 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-12 21:52:13,536 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,536 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 21:52:13,539 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,539 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 21:52:13,540 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-12 21:52:13,545 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-12 21:52:13,547 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,547 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 21:52:13,547 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,547 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-12 21:52:13,547 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,547 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-12 21:52:13,547 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-12 21:52:13,547 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-12 21:52:13,549 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-12 21:52:13,549 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-12 21:52:13,549 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,550 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 21:52:13,550 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 21:52:13,550 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-12 21:52:13,550 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-12 21:52:13,550 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-12 21:52:13,550 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-12 21:52:13,550 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-12 21:52:13,551 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-12 21:52:13,564 [NonParallelWorker] INFO InsuranceClaimsController - GetAllInsuranceClaimsWithDrivers - Retrieving all insurance claims with drivers.
+2024-05-12 21:52:13,567 [NonParallelWorker] ERROR InsuranceClaimsController - GetAllInsuranceClaimsWithDrivers - An error occurred while retrieving insurance claims with drivers: Value cannot be null. (Parameter 'outer')
+2024-05-12 21:52:13,593 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,604 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-12 21:52:13,606 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,606 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,607 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 2
+2024-05-12 21:52:13,610 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,613 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,614 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 2
+2024-05-12 21:52:13,618 [NonParallelWorker] WARN InsuranceAgentsController - Repair shop with ID 2 not found.
+2024-05-12 21:52:13,619 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,619 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,619 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,619 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 3
+2024-05-12 21:52:13,620 [NonParallelWorker] INFO InsuranceAgentsController - Updating repair shop with ID: 1
+2024-05-12 21:52:13,620 [NonParallelWorker] WARN InsuranceAgentsController - Invalid ID provided for repair shop update.
+2024-05-12 21:52:13,621 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,621 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 21:52:13,621 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 1
+2024-05-12 21:52:13,621 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-12 21:52:13,622 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-12 21:52:13,622 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving all repair shops: Object reference not set to an instance of an object.
+2024-05-12 22:07:45,482 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,582 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 22:07:45,670 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 22:07:45,698 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,700 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 22:07:45,700 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,701 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 22:07:45,705 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-12 22:07:45,738 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,739 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 22:07:45,767 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,768 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 22:07:45,790 [NonParallelWorker] WARN CustomersController - Customer with ID 2 not found.
+2024-05-12 22:07:45,799 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,799 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 22:07:45,799 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,799 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 22:07:45,799 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,799 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 3
+2024-05-12 22:07:45,804 [NonParallelWorker] INFO CustomersController - Deleted customer with ID: 2
+2024-05-12 22:07:45,807 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,807 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-12 22:07:45,807 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-12 22:07:45,807 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-12 22:07:45,807 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-12 22:07:45,808 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 22:07:45,809 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-12 22:07:45,810 [NonParallelWorker] ERROR CustomersController - An error occurred while retrieving all customers: Object reference not set to an instance of an object.
+2024-05-12 22:07:45,835 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 22:07:45,835 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 22:07:45,835 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-12 22:07:45,835 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-12 22:07:45,835 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-12 22:07:45,836 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-12 22:07:45,850 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 22:07:45,851 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 22:07:45,851 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-12 22:07:45,852 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 22:07:45,854 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 22:07:45,857 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 22:07:45,858 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 22:07:45,858 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-12 22:07:45,859 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance agent with ID: 3
+2024-05-12 22:07:45,866 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance agent with ID: 1
+2024-05-12 22:07:45,868 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 22:07:45,868 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 22:07:45,868 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-12 22:07:45,868 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-12 22:07:45,869 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-12 22:07:45,869 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-12 22:07:45,870 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-12 22:07:45,870 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-12 22:07:45,870 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-12 22:07:45,870 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-12 22:07:45,871 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-12 22:07:45,871 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance agents: Object reference not set to an instance of an object.
+2024-05-12 22:07:45,977 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:45,993 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 22:07:45,997 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-12 22:07:45,999 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:45,999 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 22:07:45,999 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:45,999 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-12 22:07:46,000 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-12 22:07:46,000 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-12 22:07:46,001 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:46,002 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 22:07:46,005 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:46,005 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 22:07:46,005 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-12 22:07:46,011 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-12 22:07:46,013 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:46,013 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 22:07:46,013 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:46,013 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-12 22:07:46,013 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:46,013 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-12 22:07:46,014 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-12 22:07:46,014 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-12 22:07:46,015 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-12 22:07:46,015 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-12 22:07:46,016 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:46,016 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-12 22:07:46,016 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-12 22:07:46,016 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-12 22:07:46,017 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-12 22:07:46,017 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-12 22:07:46,017 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-12 22:07:46,017 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-12 22:07:46,018 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-12 22:07:46,026 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,037 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-12 22:07:46,038 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,038 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,039 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 2
+2024-05-12 22:07:46,040 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,045 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,046 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 2
+2024-05-12 22:07:46,052 [NonParallelWorker] WARN InsuranceAgentsController - Repair shop with ID 2 not found.
+2024-05-12 22:07:46,054 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,054 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,055 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,055 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 3
+2024-05-12 22:07:46,057 [NonParallelWorker] INFO InsuranceAgentsController - Updating repair shop with ID: 1
+2024-05-12 22:07:46,057 [NonParallelWorker] WARN InsuranceAgentsController - Invalid ID provided for repair shop update.
+2024-05-12 22:07:46,058 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,058 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-12 22:07:46,058 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 1
+2024-05-12 22:07:46,058 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-12 22:07:46,060 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-12 22:07:46,060 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving all repair shops: Object reference not set to an instance of an object.
+2024-05-13 09:51:00,636 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:00,647 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:00,647 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 09:51:00,647 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 4
+2024-05-13 09:51:00,647 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 5
+2024-05-13 09:51:00,655 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 09:51:00,787 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:00,788 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:00,789 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance claim type with ID: 1
+2024-05-13 09:51:00,833 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:00,835 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:00,835 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:00,846 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance claim type with ID: 2
+2024-05-13 09:51:00,869 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:00,869 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:00,869 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 09:51:00,869 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance claim type with ID: 2
+2024-05-13 09:51:00,873 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance claim type with ID: 1
+2024-05-13 09:51:00,875 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:00,876 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:00,876 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance claim type with ID: 1
+2024-05-13 09:51:00,876 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 09:51:00,877 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:00,877 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:00,877 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 09:51:00,877 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 4
+2024-05-13 09:51:00,878 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 5
+2024-05-13 09:51:00,878 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 09:51:00,878 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 09:51:00,881 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance claim types: Object reference not set to an instance of an object.
+2024-05-13 09:51:07,369 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,522 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 09:51:07,638 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-13 09:51:07,674 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,676 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 09:51:07,676 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,678 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-13 09:51:07,683 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-13 09:51:07,728 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,729 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 09:51:07,761 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,762 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 09:51:07,798 [NonParallelWorker] WARN CustomersController - Customer with ID 2 not found.
+2024-05-13 09:51:07,807 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,807 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 09:51:07,807 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,807 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-13 09:51:07,808 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,808 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 3
+2024-05-13 09:51:07,815 [NonParallelWorker] INFO CustomersController - Deleted customer with ID: 2
+2024-05-13 09:51:07,820 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,820 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 09:51:07,820 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 09:51:07,821 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-13 09:51:07,821 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-13 09:51:07,821 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-13 09:51:07,832 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-13 09:51:07,833 [NonParallelWorker] ERROR CustomersController - An error occurred while retrieving all customers: Object reference not set to an instance of an object.
+2024-05-13 09:51:07,863 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 09:51:07,864 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 09:51:07,864 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-13 09:51:07,864 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-13 09:51:07,864 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-13 09:51:07,865 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-13 09:51:07,875 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 09:51:07,876 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 09:51:07,876 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-13 09:51:07,878 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 09:51:07,879 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 09:51:07,887 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 09:51:07,887 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 09:51:07,887 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-13 09:51:07,889 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance agent with ID: 3
+2024-05-13 09:51:07,898 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance agent with ID: 1
+2024-05-13 09:51:07,904 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 09:51:07,905 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 09:51:07,905 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-13 09:51:07,905 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-13 09:51:07,911 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 09:51:07,911 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 09:51:07,911 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-13 09:51:07,911 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-13 09:51:07,912 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-13 09:51:07,912 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-13 09:51:07,913 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-13 09:51:07,913 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance agents: Object reference not set to an instance of an object.
+2024-05-13 09:51:08,158 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,212 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 09:51:08,224 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-13 09:51:08,229 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,230 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 09:51:08,230 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,230 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-13 09:51:08,232 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-13 09:51:08,232 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-13 09:51:08,242 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,243 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 09:51:08,250 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,251 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 09:51:08,254 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-13 09:51:08,266 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-13 09:51:08,271 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,272 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 09:51:08,272 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,273 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-13 09:51:08,273 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,273 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-13 09:51:08,273 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-13 09:51:08,274 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-13 09:51:08,279 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-13 09:51:08,279 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-13 09:51:08,296 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,296 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 09:51:08,296 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 09:51:08,296 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-13 09:51:08,296 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-13 09:51:08,296 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-13 09:51:08,297 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-13 09:51:08,301 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-13 09:51:08,301 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-13 09:51:08,328 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:08,328 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:08,329 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 09:51:08,329 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 4
+2024-05-13 09:51:08,329 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 5
+2024-05-13 09:51:08,331 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 09:51:08,349 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:08,350 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:08,355 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance claim type with ID: 1
+2024-05-13 09:51:08,358 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:08,362 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:08,362 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:08,364 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance claim type with ID: 2
+2024-05-13 09:51:08,377 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:08,378 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:08,378 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 09:51:08,378 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance claim type with ID: 2
+2024-05-13 09:51:08,385 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance claim type with ID: 1
+2024-05-13 09:51:08,390 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:08,390 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:08,391 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance claim type with ID: 1
+2024-05-13 09:51:08,391 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 09:51:08,395 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 09:51:08,395 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 09:51:08,395 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 09:51:08,395 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 4
+2024-05-13 09:51:08,395 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 5
+2024-05-13 09:51:08,395 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 09:51:08,398 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 09:51:08,398 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance claim types: Object reference not set to an instance of an object.
+2024-05-13 09:51:08,409 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,436 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-13 09:51:08,440 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,441 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,442 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 2
+2024-05-13 09:51:08,445 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,453 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,455 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 2
+2024-05-13 09:51:08,464 [NonParallelWorker] WARN InsuranceAgentsController - Repair shop with ID 2 not found.
+2024-05-13 09:51:08,468 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,468 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,469 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,469 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 3
+2024-05-13 09:51:08,473 [NonParallelWorker] INFO InsuranceAgentsController - Updating repair shop with ID: 1
+2024-05-13 09:51:08,473 [NonParallelWorker] WARN InsuranceAgentsController - Invalid ID provided for repair shop update.
+2024-05-13 09:51:08,475 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,476 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 09:51:08,476 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 1
+2024-05-13 09:51:08,476 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-13 09:51:08,478 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-13 09:51:08,478 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving all repair shops: Object reference not set to an instance of an object.
+2024-05-13 10:44:35,445 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,542 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 10:44:35,646 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-13 10:44:35,678 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,679 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 10:44:35,679 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,681 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-13 10:44:35,688 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-13 10:44:35,725 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,725 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 10:44:35,757 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,757 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 10:44:35,789 [NonParallelWorker] WARN CustomersController - Customer with ID 2 not found.
+2024-05-13 10:44:35,801 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,801 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 10:44:35,801 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,801 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-13 10:44:35,801 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,801 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 3
+2024-05-13 10:44:35,808 [NonParallelWorker] INFO CustomersController - Deleted customer with ID: 2
+2024-05-13 10:44:35,811 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,812 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-13 10:44:35,812 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-13 10:44:35,812 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-13 10:44:35,812 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-13 10:44:35,812 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-13 10:44:35,813 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-13 10:44:35,818 [NonParallelWorker] ERROR CustomersController - An error occurred while retrieving all customers: Object reference not set to an instance of an object.
+2024-05-13 10:44:35,857 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 10:44:35,858 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 10:44:35,858 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-13 10:44:35,858 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-13 10:44:35,858 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-13 10:44:35,859 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-13 10:44:35,870 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 10:44:35,870 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 10:44:35,871 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-13 10:44:35,872 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 10:44:35,874 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 10:44:35,879 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 10:44:35,879 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 10:44:35,879 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-13 10:44:35,880 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance agent with ID: 3
+2024-05-13 10:44:35,886 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance agent with ID: 1
+2024-05-13 10:44:35,889 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 10:44:35,889 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 10:44:35,889 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-13 10:44:35,889 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-13 10:44:35,891 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-13 10:44:35,891 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-13 10:44:35,891 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-13 10:44:35,891 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-13 10:44:35,891 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-13 10:44:35,891 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-13 10:44:35,892 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-13 10:44:35,892 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance agents: Object reference not set to an instance of an object.
+2024-05-13 10:44:36,032 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,054 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 10:44:36,058 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-13 10:44:36,060 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,060 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 10:44:36,060 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,060 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-13 10:44:36,061 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-13 10:44:36,061 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-13 10:44:36,062 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,062 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 10:44:36,064 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,064 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 10:44:36,065 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-13 10:44:36,071 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-13 10:44:36,073 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,073 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 10:44:36,073 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,074 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-13 10:44:36,074 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,074 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-13 10:44:36,074 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-13 10:44:36,074 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-13 10:44:36,076 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-13 10:44:36,076 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-13 10:44:36,084 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,084 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-13 10:44:36,084 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-13 10:44:36,084 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-13 10:44:36,084 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-13 10:44:36,085 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-13 10:44:36,085 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-13 10:44:36,086 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-13 10:44:36,086 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-13 10:44:36,096 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 10:44:36,097 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 10:44:36,097 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 10:44:36,097 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 4
+2024-05-13 10:44:36,097 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 5
+2024-05-13 10:44:36,098 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 10:44:36,104 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 10:44:36,105 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 10:44:36,105 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance claim type with ID: 1
+2024-05-13 10:44:36,107 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 10:44:36,109 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 10:44:36,109 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 10:44:36,110 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance claim type with ID: 2
+2024-05-13 10:44:37,661 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 10:44:37,661 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 10:44:37,661 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 10:44:37,664 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance claim type with ID: 2
+2024-05-13 10:44:37,676 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance claim type with ID: 1
+2024-05-13 10:44:37,690 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 10:44:37,690 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 10:44:37,691 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance claim type with ID: 1
+2024-05-13 10:44:37,691 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 10:44:37,697 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-13 10:44:37,698 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-13 10:44:37,698 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-13 10:44:37,698 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 4
+2024-05-13 10:44:37,698 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 5
+2024-05-13 10:44:37,698 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 10:44:37,701 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-13 10:44:37,701 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance claim types: Object reference not set to an instance of an object.
+2024-05-13 10:44:37,708 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,747 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-13 10:44:37,750 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,751 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,752 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 2
+2024-05-13 10:44:37,755 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,761 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,794 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 2
+2024-05-13 10:44:37,809 [NonParallelWorker] WARN InsuranceAgentsController - Repair shop with ID 2 not found.
+2024-05-13 10:44:37,846 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,847 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,847 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,848 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 3
+2024-05-13 10:44:37,859 [NonParallelWorker] INFO InsuranceAgentsController - Updating repair shop with ID: 1
+2024-05-13 10:44:37,859 [NonParallelWorker] WARN InsuranceAgentsController - Invalid ID provided for repair shop update.
+2024-05-13 10:44:37,862 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,863 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-13 10:44:37,863 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 1
+2024-05-13 10:44:37,863 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-13 10:44:37,865 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-13 10:44:37,865 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving all repair shops: Object reference not set to an instance of an object.
+2024-05-17 09:11:04,971 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,103 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-17 09:11:05,229 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-17 09:11:05,272 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,273 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-17 09:11:05,273 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,276 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-17 09:11:05,284 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-17 09:11:05,345 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,346 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-17 09:11:05,395 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,395 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-17 09:11:05,434 [NonParallelWorker] WARN CustomersController - Customer with ID 2 not found.
+2024-05-17 09:11:05,444 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,445 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-17 09:11:05,445 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,445 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-17 09:11:05,445 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,445 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 3
+2024-05-17 09:11:05,455 [NonParallelWorker] INFO CustomersController - Deleted customer with ID: 2
+2024-05-17 09:11:05,470 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,471 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 1
+2024-05-17 09:11:05,471 [NonParallelWorker] INFO CustomersController - CreatePotentialCustomer- Creating a new customer.
+2024-05-17 09:11:05,471 [NonParallelWorker] INFO CustomersController - Created new customer with ID: 2
+2024-05-17 09:11:05,471 [NonParallelWorker] INFO CustomersController - Retrieved customer with ID: 1
+2024-05-17 09:11:05,471 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-17 09:11:05,474 [NonParallelWorker] INFO CustomersController - Retrieving all customers.
+2024-05-17 09:11:05,477 [NonParallelWorker] ERROR CustomersController - An error occurred while retrieving all customers: Object reference not set to an instance of an object.
+2024-05-17 09:11:05,512 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-17 09:11:05,512 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-17 09:11:05,513 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-17 09:11:05,513 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-17 09:11:05,513 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-17 09:11:05,514 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-17 09:11:05,523 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-17 09:11:05,523 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-17 09:11:05,524 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-17 09:11:05,527 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-17 09:11:05,529 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-17 09:11:05,543 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-17 09:11:05,543 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-17 09:11:05,544 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-17 09:11:05,547 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance agent with ID: 3
+2024-05-17 09:11:05,552 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance agent with ID: 1
+2024-05-17 09:11:05,556 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-17 09:11:05,556 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-17 09:11:05,556 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance agent with ID: 1
+2024-05-17 09:11:05,556 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-17 09:11:05,559 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 1
+2024-05-17 09:11:05,559 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 2
+2024-05-17 09:11:05,559 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 3
+2024-05-17 09:11:05,559 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 4
+2024-05-17 09:11:05,560 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance agent with ID: 5
+2024-05-17 09:11:05,560 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-17 09:11:05,561 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance agents.
+2024-05-17 09:11:05,561 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance agents: Object reference not set to an instance of an object.
+2024-05-17 09:11:05,727 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,750 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-17 09:11:05,755 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-17 09:11:05,758 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,759 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-17 09:11:05,759 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,759 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-17 09:11:05,760 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-17 09:11:05,761 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-17 09:11:05,763 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,763 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-17 09:11:05,768 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,768 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-17 09:11:05,771 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-17 09:11:05,786 [NonParallelWorker] WARN InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 not found.
+2024-05-17 09:11:05,793 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,794 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-17 09:11:05,794 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,794 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-17 09:11:05,794 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,794 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 3
+2024-05-17 09:11:05,795 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Deleting insurance claim with ID: 2
+2024-05-17 09:11:05,795 [NonParallelWorker] INFO InsuranceClaimsController - DeleteInsuranceClaim - Insurance claim with ID 2 deleted successfully.
+2024-05-17 09:11:05,798 [NonParallelWorker] INFO InsuranceClaimsController - PutInsuranceClaim - Updating insurance claim with ID: 1
+2024-05-17 09:11:05,798 [NonParallelWorker] WARN InsuranceClaimsController - PutInsuranceClaim - ID in the URL (1) does not match the ID of the insurance claim object (2).
+2024-05-17 09:11:05,807 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,807 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 1
+2024-05-17 09:11:05,807 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Creating a new insurance claim.
+2024-05-17 09:11:05,807 [NonParallelWorker] INFO InsuranceClaimsController - CreateInsuranceClaim - Insurance claim created successfully with ID: 2
+2024-05-17 09:11:05,807 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Retrieving insurance claim with ID: 1
+2024-05-17 09:11:05,807 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaim - Insurance claim with ID 1 retrieved successfully.
+2024-05-17 09:11:05,807 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-17 09:11:05,810 [NonParallelWorker] INFO InsuranceClaimsController - GetInsuranceClaims - Retrieving all insurance claims.
+2024-05-17 09:11:05,810 [NonParallelWorker] ERROR InsuranceClaimsController - Error occurred while retrieving insurance claims: Object reference not set to an instance of an object.
+2024-05-17 09:11:05,821 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-17 09:11:05,823 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-17 09:11:05,824 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-17 09:11:05,824 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 4
+2024-05-17 09:11:05,824 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 5
+2024-05-17 09:11:05,826 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-17 09:11:05,838 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-17 09:11:05,838 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-17 09:11:05,840 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance claim type with ID: 1
+2024-05-17 09:11:05,843 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-17 09:11:05,847 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-17 09:11:05,847 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-17 09:11:05,851 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance claim type with ID: 2
+2024-05-17 09:11:05,862 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-17 09:11:05,863 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-17 09:11:05,863 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-17 09:11:05,863 [NonParallelWorker] INFO InsuranceAgentsController - Deleted insurance claim type with ID: 2
+2024-05-17 09:11:05,867 [NonParallelWorker] INFO InsuranceAgentsController - Updated details of insurance claim type with ID: 1
+2024-05-17 09:11:05,870 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-17 09:11:05,870 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-17 09:11:05,870 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving details of insurance claim type with ID: 1
+2024-05-17 09:11:05,871 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-17 09:11:05,873 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 1
+2024-05-17 09:11:05,873 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 2
+2024-05-17 09:11:05,874 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 3
+2024-05-17 09:11:05,874 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 4
+2024-05-17 09:11:05,874 [NonParallelWorker] INFO InsuranceAgentsController - Created a new insurance claim type with ID: 5
+2024-05-17 09:11:05,874 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-17 09:11:05,875 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving list of insurance claim types.
+2024-05-17 09:11:05,875 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving insurance claim types: Object reference not set to an instance of an object.
+2024-05-17 09:11:05,878 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,899 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-17 09:11:05,901 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,902 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,904 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 2
+2024-05-17 09:11:05,909 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,916 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,917 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 2
+2024-05-17 09:11:05,929 [NonParallelWorker] WARN InsuranceAgentsController - Repair shop with ID 2 not found.
+2024-05-17 09:11:05,931 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,932 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,932 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,932 [NonParallelWorker] INFO InsuranceAgentsController - Deleting repair shop with ID: 3
+2024-05-17 09:11:05,934 [NonParallelWorker] INFO InsuranceAgentsController - Updating repair shop with ID: 1
+2024-05-17 09:11:05,934 [NonParallelWorker] WARN InsuranceAgentsController - Invalid ID provided for repair shop update.
+2024-05-17 09:11:05,935 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,935 [NonParallelWorker] INFO InsuranceAgentsController - Creating a new repair shop
+2024-05-17 09:11:05,936 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving repair shop with ID: 1
+2024-05-17 09:11:05,936 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-17 09:11:05,937 [NonParallelWorker] INFO InsuranceAgentsController - Retrieving all repair shops.
+2024-05-17 09:11:05,937 [NonParallelWorker] ERROR InsuranceAgentsController - An error occurred while retrieving all repair shops: Object reference not set to an instance of an object.

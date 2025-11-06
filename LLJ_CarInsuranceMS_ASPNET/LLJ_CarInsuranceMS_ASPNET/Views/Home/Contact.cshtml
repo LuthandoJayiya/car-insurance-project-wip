@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Contact Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Contact Us</h1>
+
+<div class="card">
+    <h2>Leave Your Details, We Will get back to you!</h2>
+    <form class="contact-form" id="contact-form" asp-action="Index" asp-controller="Home">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="text" name="email" placeholder="Your Email" required>
+        <textarea name="message" placeholder="Your Message" rows="4" required></textarea>
+        <input type="submit" value="Send Message">
+    </form>
+</div>
+
+<div class="card">
+    <h2>Get In Touch</h2>
+    <ul>
+        <li><i class="fas fa-map-marker-alt"></i> 123 Street, City, Country</li>
+        <li><i class="fas fa-envelope"></i> info@example.com</li>
+        <li><i class="fas fa-phone"></i> +1234567890</li>
+        <li>
+            <a href="#" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook"></i></a>
+            <a href="#" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+            <a href="#" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+        </li>
+    </ul>
+</div>
+
+<script>
+    document.getElementById('contact-form').addEventListener('submit', function (event) {
+        alert('Your message has been submitted successfully! We will be in touch');
+    });
+</script>
+

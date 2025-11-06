@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LLJ_CarInsuranceMS_ASPNET.props" />
+</Project>

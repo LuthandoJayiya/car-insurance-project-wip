@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LLJ_CarInsuranceMS_ASPNET
+build_property.RootNamespace = LLJ_CarInsuranceMS_ASPNET
+build_property.ProjectDir = C:\Users\local.user\OneDrive - FDM Group (1)\Documents\VisualStudioWorkspace\WEEK12\Project\LLJ_CarInsuranceMS_ASPNET\LLJ_CarInsuranceMS_ASPNET\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\local.user\OneDrive - FDM Group (1)\Documents\VisualStudioWorkspace\WEEK12\Project\LLJ_CarInsuranceMS_ASPNET\LLJ_CarInsuranceMS_ASPNET
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/Admin/AllUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQWxsVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/Admin/UserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVXNlclByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/CrudCustomers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3J1ZEN1c3RvbWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/CrudInsuranceClaim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3J1ZEluc3VyYW5jZUNsYWltXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/CrudPolicies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3J1ZFBvbGljaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/CrudPolicies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3J1ZFBvbGljaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/CrudPolicies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3J1ZFBvbGljaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/CrudPolicies/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3J1ZFBvbGljaWVzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/CrudPolicyApplication/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3J1ZFBvbGljeUFwcGxpY2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/RepairShops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwYWlyU2hvcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Admin/Views/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX0FkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/AuthServices/Views/UserManager/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFNlcnZpY2VzXFZpZXdzXFVzZXJNYW5hZ2VyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/AuthServices/Views/UserManager/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFNlcnZpY2VzXFZpZXdzXFVzZXJNYW5hZ2VyXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/AuthServices/Views/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFNlcnZpY2VzXFZpZXdzXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/ClaimSurveyor/Views/Surveyors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xhaW1TdXJ2ZXlvclxWaWV3c1xTdXJ2ZXlvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/ClaimSurveyor/Views/_SurveyorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xhaW1TdXJ2ZXlvclxWaWV3c1xfU3VydmV5b3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Customers/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXEN1c3RvbWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Customers/Views/_CustomerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXF9DdXN0b21lckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Drivers/Views/Drivers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRHJpdmVyc1xWaWV3c1xEcml2ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Areas/Drivers/Views/_DriversLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRHJpdmVyc1xWaWV3c1xfRHJpdmVyc0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/Policies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/Policies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/RepairShops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwYWlyU2hvcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/RepairShops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwYWlyU2hvcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/local.user/OneDrive - FDM Group (1)/Documents/VisualStudioWorkspace/WEEK12/Project/LLJ_CarInsuranceMS_ASPNET/LLJ_CarInsuranceMS_ASPNET/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-87ax01d0fu

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LLJ_CarInsuranceMS_RESTAPI.props" />
+</Project>

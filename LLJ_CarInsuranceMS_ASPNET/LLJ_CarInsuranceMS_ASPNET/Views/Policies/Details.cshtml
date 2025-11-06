@@ -1,0 +1,34 @@
+﻿@model LLJ_CarInsuranceMS_ASPNET.Models.PolicyVM
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card mt-5">
+    <div class="card-body">
+        <h2 class="card-title text-center">Policy Details</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <dl class="row">
+                    <dt class="col-sm-4">Policy Type:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.PolicyType)</dd>
+                    <dt class="col-sm-4">Policy Name:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.PolicyName)</dd>
+                    <dt class="col-sm-4">Coverage:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Coverage)</dd>
+                    <dt class="col-sm-4">Premium:</dt>
+                    <dd class="col-sm-8">@string.Format("{0:C}", Model.Premium)</dd>
+                </dl>
+                <div class="text-center">
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                    <a asp-area="AuthServices" asp-controller="UserManager" asp-action="Register" class="btn btn-primary">Apply</a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <img src="~/images/car-png-39057.png" alt="Policy Image" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</div>
+

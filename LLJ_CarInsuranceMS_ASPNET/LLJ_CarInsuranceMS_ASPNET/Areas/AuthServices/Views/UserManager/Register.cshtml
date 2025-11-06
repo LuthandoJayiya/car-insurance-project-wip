@@ -1,0 +1,95 @@
+﻿@model LLJ_CarInsuranceMS_ASPNET.Areas.AuthServices.Models.RegistrationVM
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Areas/AuthServices/Views/_AuthLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <h2>Register</h2>
+            <hr />
+            <form method="post">
+                <div class="col-auto">
+                    <div class="input-group mb-2">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">@Html.DisplayNameFor(model => model.UserName)&nbsp;</div>
+                        </div>
+                        <input type="text" asp-for="UserName" class="form-control" id="UserName" name="UserName" placeholder="User Name" required>
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-auto">
+                    <div class="input-group mb-2">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">@Html.DisplayNameFor(model => model.Email)&nbsp;</div>
+                        </div>
+                        <input type="text" asp-for="Email" class="form-control" id="Email" name="Email" placeholder="Email" required>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-auto">
+                    <div class="input-group mb-2">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">@Html.DisplayNameFor(model => model.Password)&nbsp;</div>
+                        </div>
+                        <input type="password" asp-for="Password" class="form-control" id="Password" name="Password" placeholder="Password" required>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-auto">
+                    <div class="input-group mb-2">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">@Html.DisplayNameFor(model => model.FullName)&nbsp;</div>
+                        </div>
+                        <input type="text" asp-for="FullName" class="form-control" id="FullName" name="FullName" placeholder="Full Name" required>
+                        <span asp-validation-for="FullName" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-auto">
+                    <div class="input-group mb-2">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">@Html.DisplayNameFor(model => model.PhoneNumber)&nbsp;</div>
+                        </div>
+                        <input type="text" asp-for="PhoneNumber" class="form-control" id="PhoneNumber" name="PhoneNumber" placeholder="Phone Number" required>
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-auto">
+                    <div class="input-group mb-2">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">@Html.DisplayNameFor(model => model.LicenseNumber)&nbsp;</div>
+                        </div>
+                        <input type="text" asp-for="LicenseNumber" class="form-control" id="LicenseNumber" name="LicenseNumber" placeholder="License Number" required>
+                        <span asp-validation-for="LicenseNumber" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="text-center">
+                    <input type="submit" value="Register" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="text-center row mb-4">
+        <span class="loginSpan">&nbsp;</span>
+        <a href="~/AuthServices/UserManager/Login">Login</a>
+        <span class="loginSpan">&nbsp;</span>
+        <a href="~/Home/Index">Back to Home</a>
+    </div>
+
+    <div class="row  col--2 col--last"></div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

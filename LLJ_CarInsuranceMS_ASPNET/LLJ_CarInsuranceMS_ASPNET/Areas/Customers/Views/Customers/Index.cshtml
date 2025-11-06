@@ -1,0 +1,47 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Customers/Views/_CustomerLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <i class="fas fa-file-alt fa-3x mb-3 text-black"></i>
+                    <h5 class="card-title">Check Our Policies</h5>
+                    <p class="card-text">Here you can see available policies and apply for a policy you like</p>
+                    @* <a href="" class="btn btn-primary">Go to Policies</a> *@
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <i class="fas fa-user fa-3x mb-3 text-black"></i>
+                    <h5 class="card-title">My Details</h5>
+                    <p class="card-text">Here you can see and manage you details such as profile and more</p>
+                    @* <a asp-area="Admin" asp-controller="CrudCustomers" asp-action="Index" class="btn btn-primary">Go to Details</a> *@
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <i class="fas fa-user-tie fa-3x mb-3 text-black"></i>
+                    <h5 class="card-title">Applications</h5>
+                    <p class="card-text">Here you can see your application and status </p>
+                    @* <a asp-area="" asp-controller="" asp-action="Index" class="btn btn-primary">Go to Applications</a> *@
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,179 @@
+2024-05-24 10:19:46,579 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:22:06,746 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:23:25,148 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:24:23,653 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:25:40,253 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:26:37,595 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:27:40,051 [28] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:35:02,365 [27] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:48:10,391 [29] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 10:48:15,699 [28] INFO UserManagerController - User submitted the Login form.
+2024-05-24 10:48:15,700 [28] DEBUG UserManagerController - Sending POST request to https://localhost:7274/api/ApplicationUser/Login with user registration data for user 
+2024-05-24 10:48:18,427 [28] INFO UserManagerController - Received response with status code InternalServerError from https://localhost:7274/api/ApplicationUser/Login for user 
+2024-05-24 10:48:19,134 [28] WARN UserManagerController - User Login failed with status code InternalServerError.
+2024-05-24 12:08:59,072 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 12:08:59,273 [10] INFO UserManagerController - User submitted the Login form.
+2024-05-24 12:08:59,273 [10] DEBUG UserManagerController - Sending POST request to https://localhost:7274/api/ApplicationUser/Login with user registration data for user 
+2024-05-24 12:09:01,411 [10] INFO UserManagerController - Received response with status code InternalServerError from https://localhost:7274/api/ApplicationUser/Login for user 
+2024-05-24 12:09:01,455 [10] WARN UserManagerController - User Login failed with status code InternalServerError.
+2024-05-24 12:09:01,600 [10] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:09:01,634 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:09:01,648 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:09:01,685 [10] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:09:01,718 [10] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:09:01,733 [10] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:15:19,272 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 12:15:19,475 [11] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:15:19,614 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:15:19,618 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:15:19,744 [11] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:15:19,769 [11] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:15:19,781 [11] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:15:19,796 [11] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:15:19,807 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:15:19,807 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:15:19,812 [13] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:15:19,827 [13] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:15:19,827 [13] INFO PoliciesController - Showing List of policies
+2024-05-24 12:15:19,831 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:15:19,841 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:15:19,841 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:15:28,670 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 12:15:28,869 [10] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:15:28,986 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:15:28,992 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:15:29,092 [10] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:15:29,115 [10] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:15:29,129 [10] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:15:29,144 [10] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:15:29,154 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:15:29,154 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:15:29,158 [10] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:15:29,168 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:15:29,168 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:15:29,171 [10] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:15:29,182 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:15:29,182 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:21:59,214 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 12:21:59,422 [11] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:21:59,593 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:21:59,599 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:21:59,726 [26] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:21:59,750 [26] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:21:59,761 [26] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:21:59,775 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:21:59,785 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:21:59,785 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:21:59,789 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:21:59,798 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:21:59,798 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:21:59,804 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:21:59,811 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:21:59,811 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:21:59,823 [26] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:21:59,876 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:21:59,887 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:21:59,887 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:21:59,891 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:21:59,902 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:21:59,902 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:24:23,119 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 12:24:23,398 [11] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:24:23,588 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:24:23,593 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:24:23,745 [13] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:24:23,787 [13] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:24:23,800 [13] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:24:23,818 [13] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:24:23,828 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:24:23,828 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:24:23,833 [13] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:24:23,842 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:24:23,842 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:24:23,846 [13] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:24:23,856 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:24:23,857 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:24:23,861 [13] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:24:23,929 [13] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:24:23,959 [29] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:24:23,959 [29] INFO PoliciesController - Showing List of policies
+2024-05-24 12:24:23,967 [13] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:24:23,981 [29] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:24:23,981 [29] INFO PoliciesController - Showing List of policies
+2024-05-24 12:25:12,537 [25] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 12:25:19,050 [13] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:31:12,487 [25] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 12:31:16,819 [10] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:31:41,100 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 12:31:41,327 [12] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:31:41,455 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:31:41,461 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:31:41,569 [26] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:31:41,593 [26] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:31:41,606 [26] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:31:41,619 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:31:41,629 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:31:41,630 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:31:41,634 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:31:41,646 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:31:41,646 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:31:41,658 [26] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:31:41,669 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:31:41,669 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:31:41,673 [26] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 12:31:41,692 [12] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:31:41,718 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:31:41,718 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 12:31:41,723 [12] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 12:31:41,748 [7] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 12:31:41,748 [7] INFO PoliciesController - Showing List of policies
+2024-05-24 13:33:01,289 [25] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 13:33:01,289 [24] INFO Program.main method - ASP.NET Core MVC Started!
+2024-05-24 13:33:01,494 [11] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 13:33:01,504 [13] INFO RepairShopsController - User has accessed the Details Page.
+2024-05-24 13:33:01,626 [9] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 13:33:01,629 [9] INFO PoliciesController - Showing List of policies
+2024-05-24 13:33:01,630 [7] INFO RepairShopsController - The Repair Shop with ID: 1 was found and is now being shown
+2024-05-24 13:33:01,711 [29] INFO RepairShopsController - User has accessed the Details Page.
+2024-05-24 13:33:01,714 [31] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 13:33:01,730 [7] INFO RepairShopsController - The Repair Shop with ID: 3 was found and is now being shown
+2024-05-24 13:33:01,734 [31] INFO RepairShopsController - User has accessed the Details Page.
+2024-05-24 13:33:01,742 [31] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 13:33:01,745 [9] INFO RepairShopsController - The Repair Shop with ID: 2 was found and is now being shown
+2024-05-24 13:33:01,751 [31] INFO RepairShopsController - User has accessed the Index page.
+2024-05-24 13:33:01,756 [29] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 13:33:01,764 [9] INFO RepairShopsController - Retrieving List of Repair Shops
+2024-05-24 13:33:01,765 [9] INFO RepairShopsController - Showing List of Repair Shops
+2024-05-24 13:33:01,788 [31] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 13:33:01,788 [29] INFO RepairShopsController - User has accessed the Index page.
+2024-05-24 13:33:01,800 [9] INFO RepairShopsController - Retrieving List of Repair Shops
+2024-05-24 13:33:01,800 [9] INFO RepairShopsController - Showing List of Repair Shops
+2024-05-24 13:33:01,806 [9] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 13:33:01,806 [9] INFO PoliciesController - Showing List of policies
+2024-05-24 13:33:01,806 [29] INFO RepairShopsController - User has accessed the Index page.
+2024-05-24 13:33:01,811 [29] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 13:33:01,817 [9] INFO RepairShopsController - Retrieving List of Repair Shops
+2024-05-24 13:33:01,817 [9] INFO RepairShopsController - Showing List of Repair Shops
+2024-05-24 13:33:01,825 [9] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 13:33:01,825 [29] INFO RepairShopsController - User has accessed the Index page.
+2024-05-24 13:33:01,825 [9] INFO PoliciesController - Showing List of policies
+2024-05-24 13:33:01,831 [31] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 13:33:01,837 [9] INFO RepairShopsController - Retrieving List of Repair Shops
+2024-05-24 13:33:01,837 [9] INFO RepairShopsController - Showing List of Repair Shops
+2024-05-24 13:33:01,842 [31] INFO RepairShopsController - User has accessed the Index page.
+2024-05-24 13:33:01,843 [9] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 13:33:01,843 [9] INFO PoliciesController - Showing List of policies
+2024-05-24 13:33:01,851 [31] INFO PoliciesController - User has accessed the Details Page.
+2024-05-24 13:33:01,862 [9] INFO RepairShopsController - Retrieving List of Repair Shops
+2024-05-24 13:33:01,862 [9] INFO RepairShopsController - Showing List of Repair Shops
+2024-05-24 13:33:01,870 [31] INFO RepairShopsController - User has accessed the Details Page.
+2024-05-24 13:33:01,877 [31] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 13:33:01,884 [9] WARN RepairShopsController - The Repair Shop with ID: 100 was not found
+2024-05-24 13:33:01,887 [31] INFO RepairShopsController - User has accessed the Index page.
+2024-05-24 13:33:01,889 [9] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 13:33:01,889 [9] INFO PoliciesController - Showing List of policies
+2024-05-24 13:33:01,894 [31] INFO PoliciesController - User has accessed the Index page.
+2024-05-24 13:33:01,898 [9] INFO RepairShopsController - Retrieving List of Repair Shops
+2024-05-24 13:33:01,899 [9] INFO RepairShopsController - Showing List of Repair Shops
+2024-05-24 13:33:01,903 [9] INFO PoliciesController - Retrieving List of Policies
+2024-05-24 13:33:01,903 [9] INFO PoliciesController - Showing List of policies

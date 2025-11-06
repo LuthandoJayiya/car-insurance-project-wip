@@ -1,0 +1,79 @@
+﻿@model LLJ_CarInsuranceMS_ASPNET.Models.Policy
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/_AdminLayout.cshtml";
+}
+@{
+    if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+        </div>
+    }
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title text-center">
+                        <i class="fas fa-file-alt"></i> Create Policy
+                    </h4>
+                    <hr />
+                    <form asp-area="Admin" asp-controller="CrudPolicies" asp-action="Create" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                        <div class="form-group">
+                            <input type="hidden" id="PolicyId" name="PolicyId" value="" />
+                            <span asp-validation-for="PolicyId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label name="PolicyType" class="control-label">Policy Type</label>
+                            <input type="text" id="PolicyType" name="PolicyType" class="form-control" required/>
+                            <span asp-validation-for="PolicyType" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label name="PolicyName" class="control-label">Policy Name</label>
+                            <input type="text" id="PolicyName" name="PolicyName" class="form-control" required/>
+                            <span asp-validation-for="PolicyName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label name="Coverage" class="control-label">Coverage</label>
+                            <input type="text" id="Coverage" name="Coverage" class="form-control" required />
+                            <span asp-validation-for="Coverage" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label name="Premium" class="control-label">Premium</label>
+                            <input type="text" id="Premium" name="Premium" class="form-control" required />
+                            <span asp-validation-for="Premium" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ExpirationDate" class="control-label">Expiration Date</label>
+                            <input type="date" id="ExpirationDate" name="ExpirationDate" class="form-control" required />
+                            <span asp-validation-for="ExpirationDate" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CreationDate" class="control-label">Creation Date</label>
+                            <input type="date" id="CreationDate" name="CreationDate" class="form-control" required />
+                            <span asp-validation-for="CreationDate" class="text-danger"></span>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-plus text-white"></i> Create
+                            </button>
+                            <a href="Index" class="btn btn-secondary ml-2">
+                                <i class="fas fa-arrow-left text-white"></i> Back to List
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

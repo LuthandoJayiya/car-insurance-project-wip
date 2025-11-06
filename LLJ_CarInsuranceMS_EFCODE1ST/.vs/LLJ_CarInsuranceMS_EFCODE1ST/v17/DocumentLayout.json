@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|c:\\users\\local.user\\onedrive - fdm group (1)\\documents\\visualstudioworkspace\\week12\\project\\llj_carinsurancems_efcode1st\\pocos\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\migrations\\202405231233268_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\migrations\\202405231233268_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\policyapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\policyapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\potentialcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\potentialcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\insuranceagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\insuranceagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\customerpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\customerpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\pocos\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F367E5-DE3C-4581-A2B5-160B24919967}|POCOS\\POCOS.csproj|solutionrelative:pocos\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062128000_seedAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062124500_updateUsingFluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202405231233268_initial.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405231233268_initial.cs",
+              "RelativeDocumentMoniker": "POCOS\\Migrations\\202405231233268_initial.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405231233268_initial.cs",
+              "RelativeToolTip": "POCOS\\Migrations\\202405231233268_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:33:40.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsuranceAgent.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\InsuranceAgent.cs",
+              "RelativeDocumentMoniker": "POCOS\\InsuranceAgent.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\InsuranceAgent.cs",
+              "RelativeToolTip": "POCOS\\InsuranceAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:39:02.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\CustomerPolicy.cs",
+              "RelativeDocumentMoniker": "POCOS\\CustomerPolicy.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\CustomerPolicy.cs",
+              "RelativeToolTip": "POCOS\\CustomerPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:24:29.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Model1.cs",
+              "RelativeDocumentMoniker": "POCOS\\Model1.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Model1.cs",
+              "RelativeToolTip": "POCOS\\Model1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA/wDMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:18:03.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Policy.cs",
+              "RelativeDocumentMoniker": "POCOS\\Policy.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Policy.cs",
+              "RelativeToolTip": "POCOS\\Policy.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:16:54.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PotentialCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\PotentialCustomer.cs",
+              "RelativeDocumentMoniker": "POCOS\\PotentialCustomer.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\PotentialCustomer.cs",
+              "RelativeToolTip": "POCOS\\PotentialCustomer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:22:07.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Driver.cs",
+              "RelativeDocumentMoniker": "POCOS\\Driver.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Driver.cs",
+              "RelativeToolTip": "POCOS\\Driver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:37:52.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "POCOS\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "POCOS\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAADYCAAAAAAAAAADwv1kCAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:31:11.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyApplication.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\PolicyApplication.cs",
+              "RelativeDocumentMoniker": "POCOS\\PolicyApplication.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\PolicyApplication.cs",
+              "RelativeToolTip": "POCOS\\PolicyApplication.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:09:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Vehicle.cs",
+              "RelativeDocumentMoniker": "POCOS\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Vehicle.cs",
+              "RelativeToolTip": "POCOS\\Vehicle.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:35:49.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\App.config",
+              "RelativeDocumentMoniker": "POCOS\\App.config",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK12\\Project\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\App.config",
+              "RelativeToolTip": "POCOS\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T16:31:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202405062124500_updateUsingFluent.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062124500_updateUsingFluent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062124500_updateUsingFluent.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062124500_updateUsingFluent.cs",
+              "RelativeToolTip": "..\\..\\..\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062124500_updateUsingFluent.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:25:03.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Claim.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Claim.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Claim.cs",
+              "RelativeToolTip": "..\\..\\..\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Claim.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:17:13.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Customer.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Customer.cs",
+              "RelativeToolTip": "..\\..\\..\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Customer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:35:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202405062128000_seedAdded.cs",
+              "DocumentMoniker": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062128000_seedAdded.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062128000_seedAdded.cs",
+              "ToolTip": "C:\\Users\\local.user\\OneDrive - FDM Group (1)\\Documents\\VisualStudioWorkspace\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062128000_seedAdded.cs",
+              "RelativeToolTip": "..\\..\\..\\WEEK10\\REST_PROJECT\\LLJ_CarInsuranceMS_EFCODE1ST\\POCOS\\Migrations\\202405062128000_seedAdded.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:28:04.497Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 905,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

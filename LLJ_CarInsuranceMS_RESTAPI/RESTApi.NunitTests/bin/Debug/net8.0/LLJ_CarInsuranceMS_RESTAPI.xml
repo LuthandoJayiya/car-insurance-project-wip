@@ -1,0 +1,576 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LLJ_CarInsuranceMS_RESTAPI</name>
+    </assembly>
+    <members>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationSettings">
+            <summary>
+            This class is used by the Middleware to manage JWT.  Actual values will be stored in the appsettings.json
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationSettings.JWT_Secret">
+            <summary>
+            Gets or sets the JWT secret.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationSettings.JwtCookieName">
+            <summary>
+            Gets or sets the name of the JWT cookie.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationSettings.SigningKey">
+            <summary>
+            Gets or sets the signing key for JWT.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationSettings.ExpiryInMinutes">
+            <summary>
+            Gets or sets the expiry time for JWT in minutes.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationSettings.JWT_Site_URL">
+            <summary>
+            Gets or sets the URL for the site using JWT.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationSettings.Client_URL">
+            <summary>
+            Gets or sets the client URL.
+            </summary>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUser">
+            <summary>
+            Represents an application user, derived from IdentityUser.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUser.FullName">
+            <summary>
+            Gets or sets the full name of the user.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUser.LicenseNumber">
+            <summary>
+            Gets or sets the license number of the user.
+            </summary>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel">
+            <summary>
+            This class will be used by the registration end point which maps the required  user account details to the identity tables
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel.UserName">
+            <summary>
+            Gets or sets the username of the user.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel.Password">
+            <summary>
+            Gets or sets the password of the user.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel.Email">
+            <summary>
+            Gets or sets the email address of the user.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel.FullName">
+            <summary>
+            Gets or sets the full name of the user.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel.Role">
+            <summary>
+            Gets or sets the role of the user.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel.PhoneNumber">
+            <summary>
+            Gets or sets the phone number of the user.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel.LicenseNumber">
+            <summary>
+            Gets or sets the license number of the user.
+            </summary>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.AuthModels.AuthenticationContext">
+            <summary>
+            Represents the database context for authentication-related entities.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.AuthModels.AuthenticationContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions)">
+            <summary>
+            Initializes a new instance of the <see cref="T:LLJ_CarInsuranceMS_RESTAPI.AuthModels.AuthenticationContext"/> class.
+            </summary>
+            <param name="options">The options for this context.</param>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.AuthenticationContext.ApplicationUsers">
+            <summary>
+            Gets or sets the DbSet of application users.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.AuthModels.AuthenticationContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <summary>
+            Overrides the default behavior when the model is created.
+            </summary>
+            <param name="builder">The model builder.</param>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.AuthModels.LoginModel">
+            <summary>
+            This class will be used by the login end point which maps the required  user account to the identity table.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.LoginModel.UserName">
+            <summary>
+            Gets or sets the username of the user.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.AuthModels.LoginModel.Password">
+            <summary>
+            Gets or sets the password of the user.
+            </summary>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Controllers.ApplicationUserController">
+            <summary>
+            This controller contain the end points for user registration and login
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.ApplicationUserController.#ctor(Microsoft.AspNetCore.Identity.UserManager{LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUser},Microsoft.AspNetCore.Identity.SignInManager{LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUser},Microsoft.Extensions.Options.IOptions{LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationSettings})">
+            <summary>
+            Constructor for the ApplicationUserController.
+            </summary>
+            <param name="signInManager">The sign in manager.</param>
+            /// <param name="userManager">The user manager.</param>
+            /// <param name="appSettings">The Application settings.</param>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.ApplicationUserController.PostApplicationUser(LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUserModel)">
+            <summary>
+            Creates a new user.
+            </summary>
+            /// <param name="model">The application user model.</param>
+            <returns>If the creation is successful, returns ok with the newly created user's username. If an error occurs, returns an error response.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.ApplicationUserController.Login(LLJ_CarInsuranceMS_RESTAPI.AuthModels.LoginModel)">
+            <summary>
+            Logs in a user and generates a JWT token for authentication.
+            </summary>
+            <param name="model">The login model containing username and password.</param>
+            <returns>Action result with JWT token and user information.</returns>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController">
+            <summary>
+            Controller for managing potential customers.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController.#ctor(LLJ_CarInsuranceMS_RESTAPI.Models.LLJ_CarInsuranceMS_EFDBContext)">
+            <summary>
+            Constructor for the CustomersController.
+            </summary>
+            <param name="context">The database context.</param>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController.GetCustomers">
+            <summary>
+            Retrieves all customers.
+            </summary>
+            <returns>Returns a list of all customers.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController.GetCustomer(System.Int32)">
+            <summary>
+            Retrieves a specific customer by ID.
+            </summary>
+            <param name="id">The ID of the customer to retrieve.</param>
+            <returns>Returns the customer with the specified ID.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController.PutCustomer(System.Int32,LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM)">
+            <summary>
+            Updates an existing customer.
+            </summary>
+            <param name="id">The ID of the customer to update.</param>
+            <param name="customerVM">The updated customer information.</param>
+            <returns>Returns a HTTP status code indicating the result of the update operation.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController.PostCustomers(LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM)">
+            <summary>
+            Creates a new customer in the database.
+            </summary>
+            <param name="customer">The customer object to create.</param>
+            <returns>An ActionResult of PotentialCustomer.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController.DeleteCustomers(System.Int32)">
+            <summary>
+            Deletes a customer from the database.
+            </summary>
+            <param name="id">The ID of the customer to delete.</param>
+            <returns>An ActionResult of PotentialCustomer.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController.GetCustomerByIdentityUsername(System.String)">
+            <summary>
+            Retrieves a specific customer by IdentityUsername.
+            </summary>
+            <param name="identityUsername">The Identinty username of the customer to retrieve.</param>
+            <returns>Returns the customer with the specified Identntity username.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.CustomersController.CustomerExists(System.Int32)">
+            <summary>
+            Checks if a customer exists in the database.
+            </summary>
+            <param name="id">The ID of the customer to check.</param>
+            <returns>True if the customer exists, otherwise false.</returns>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController">
+            <summary>
+            Controller for managing insurance claims.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.#ctor(LLJ_CarInsuranceMS_RESTAPI.Models.LLJ_CarInsuranceMS_EFDBContext)">
+            <summary>
+            Constructor for the InsuranceClaimsController.
+            </summary>
+            <param name="context">The database context.</param>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.GetInsuranceClaims">
+            <summary>
+            Retrieves all insurance claims.
+            </summary>
+            <returns>A list of insurance claims.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.GetInsuranceClaim(System.Int32)">
+            <summary>
+            Retrieves a specific insurance claim by its ID.
+            </summary>
+            <param name="id">The ID of the insurance claim to retrieve.</param>
+            <returns>The insurance claim with the specified ID if found, otherwise returns NotFound.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.PutInsuranceClaim(System.Int32,LLJ_CarInsuranceMS_RESTAPI.Models.InsuranceClaim)">
+            <summary>
+            Updates an existing insurance claim with the specified ID.
+            </summary>
+            <param name="id">The ID of the insurance claim to update.</param>
+            <param name="insuranceClaim">The updated insurance claim data.</param>
+            <returns>If the update is successful, returns Ok with a success message. If the insurance claim with the specified ID is not found, returns NotFound. If a concurrency exception occurs during the update, returns an error response.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.CreateInsuranceClaim(LLJ_CarInsuranceMS_RESTAPI.ViewModel.InsuranceClaimVM)">
+            <summary>
+            Creates a new insurance claim.
+            </summary>
+            <param name="insuranceClaim">The data for the new insurance claim.</param>
+            <returns>If the creation is successful, returns CreatedAtAction with the newly created insurance claim. If an error occurs, returns an error response.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.DeleteInsuranceClaim(System.Int32)">
+            <summary>
+            Deletes a specific insurance claim.
+            </summary>
+            <param name="id">The ID of the insurance claim, To delete.</param>
+            <returns>Ok message if the Insurance claim was deleted successfully, otherwise BadRequest.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.GetAllInsuranceClaimsWithDrivers">
+            <summary>
+            Retrieves all insurance claims along with their associated drivers.
+            </summary>
+            <returns>A list of insurance claims with drivers.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.GetOneInsuranceClaimWithDriver(System.Int32)">
+            <summary>
+            Retrieves a specific insurance claim along with its associated driver.
+            </summary>
+            <param name="id">The ID of the insurance claim.</param>
+            <returns>The insurance claim with the specified ID along with its associated driver if found, otherwise NotFound.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.GetAllInsuranceClaimsWithSurveyors">
+            <summary>
+            Retrieves all insurance claims along with their associated surveyors.
+            </summary>
+            <returns>A list of insurance claims with surveyors.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.GetOneInsuranceClaimWithSurveyor(System.Int32)">
+            <summary>
+            Retrieves a specific insurance claim along with its associated surveyor.
+            </summary>
+            <param name="id">The ID of the insurance claim.</param>
+            <returns>The insurance claim with the specified ID along with its associated surveyor if found, otherwise NotFound.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.GetAllInsuranceClaimsWithRepairshops">
+            <summary>
+            Retrieves all insurance claims along with their associated repair shops.
+            </summary>
+            <returns>A list of insurance claims with repair shops.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.GetOneInsuranceClaimWithRepairshop(System.Int32)">
+            <summary>
+            Retrieves a specific insurance claim along with its associated repair shop.
+            </summary>
+            <param name="id">The ID of the insurance claim.</param>
+            <returns>The insurance claim with the specified ID along with its associated repair shop if found, otherwise NotFound.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimsController.InsuranceClaimExists(System.Int32)">
+            <summary>
+            Checks if an insurance claim with the specified ID exists in the database.
+            </summary>
+            <param name="id">The ID of the insurance claim to check.</param>
+            <returns>True if the insurance claim exists, otherwise false.</returns>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimTypesController">
+            <summary>
+            Controller for managing insurance claim types.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimTypesController.#ctor(LLJ_CarInsuranceMS_RESTAPI.Models.LLJ_CarInsuranceMS_EFDBContext)">
+            <summary>
+            Constructor for the InsuranceClaimTypesController.
+            </summary>
+            <param name="context">The database context.</param>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimTypesController.GetInsuranceClaimTypes">
+            <summary>
+            Retrieves a list of all claim types.
+            </summary>
+            <returns>A list of insurance claim types.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimTypesController.GetInsuranceClaimType(System.Int32)">
+            <summary>
+            Retrieves the details of a specific insurance claim type.
+            </summary>
+            <param name="id">The ID of the insurance claim type.</param>
+            <returns>The details of the insurance claim type.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimTypesController.PutInsuranceClaimType(System.Int32,LLJ_CarInsuranceMS_RESTAPI.Models.InsuranceClaimType)">
+            <summary>
+            Updates the details of a specific insurance claim type.
+            </summary>
+            <param name="id">The ID of the insurance claim type.</param>
+            <param name="insuranceClaimType">The updated insurance claim type details.</param>
+            <returns>A response indicating the success or failure of the update operation.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimTypesController.PostInsuranceClaimType(LLJ_CarInsuranceMS_RESTAPI.Models.InsuranceClaimType)">
+            <summary>
+            Creates a new insurance claim type.
+            </summary>
+            <param name="insuranceClaimType">The details of the insurance claim type to be created.</param>
+            <returns>Returns a newly created insurance claim type along with a HTTP status code.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.InsuranceClaimTypesController.DeleteInsuranceClaimType(System.Int32)">
+            <summary>
+            Deletes an existing insurance claim type.
+            </summary>
+            <param name="id">The ID of the insurance claim type to be deleted.</param>
+            <returns>Returns an HTTP status code indicating the result of the deletion operation.</returns>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Controllers.PoliciesController">
+            <summary>
+            Controller for managing policies.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PoliciesController.#ctor(LLJ_CarInsuranceMS_RESTAPI.Models.LLJ_CarInsuranceMS_EFDBContext,Microsoft.AspNetCore.Identity.UserManager{LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUser},LLJ_CarInsuranceMS_RESTAPI.AuthModels.AuthenticationContext,Microsoft.AspNetCore.Identity.RoleManager{Microsoft.AspNetCore.Identity.IdentityRole})">
+            <summary>
+            Constructor for the PolicyController.
+            </summary>
+            <param name="context">The database context.</param>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PoliciesController.GetAllPolicies">
+            <summary>
+            Retrieves all policies.
+            </summary>
+            <returns>A list of policies.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PoliciesController.GetPolicy(System.Int32)">
+            <summary>
+            Retrieves a specific policy by its ID.
+            </summary>
+            <param name="id">The ID of the policy to retrieve.</param>
+            <returns>The policy with the specified ID if found, otherwise returns NotFound.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PoliciesController.PutPolicy(System.Int32,LLJ_CarInsuranceMS_RESTAPI.ViewModel.PolicyVM)">
+            <summary>
+            Updates the details of a specific policy.
+            </summary>
+            <param name="id">The ID of the policy.</param>
+            <param name="policy">The updated policy details.</param>
+            <returns>A response indicating the success or failure of the update operation.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PoliciesController.PostPolicy(LLJ_CarInsuranceMS_RESTAPI.ViewModel.PolicyVM)">
+            <summary>
+            Creates a new Policy.
+            </summary>
+            <param name="policy">The details of the Policy to be created.</param>
+            <returns>Returns a newly created insurance agent along with a HTTP status code.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PoliciesController.DeletePolicy(System.Int32)">
+            <summary>
+            Deletes an existing Policy.
+            </summary>
+            <param name="id">The ID of the Policy to be deleted.</param>
+            <returns>Returns an HTTP status code indicating the result of the deletion operation.</returns>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Controllers.PolicyApplicationController">
+            <summary>
+            Controller for managing policy applications.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PolicyApplicationController.#ctor(LLJ_CarInsuranceMS_RESTAPI.Models.LLJ_CarInsuranceMS_EFDBContext,Microsoft.AspNetCore.Identity.UserManager{LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUser},LLJ_CarInsuranceMS_RESTAPI.AuthModels.AuthenticationContext,Microsoft.AspNetCore.Identity.RoleManager{Microsoft.AspNetCore.Identity.IdentityRole})">
+            <summary>
+            Constructor for the PolicyApplicationController.
+            </summary>
+            <param name="context">The database context.</param>
+            /// <param name="authcontext">The authentication context.</param>
+            /// <param name="userManager">The user manager.</param>
+            /// <param name="roleManager">The Role manager.</param>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PolicyApplicationController.GetAllPolicyApplications">
+            <summary>
+            Retrieves all policy applications.
+            </summary>
+            <returns>A list of policy applications.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PolicyApplicationController.GetPolicyApplication(System.Int32)">
+            <summary>
+            Retrieves a specific policy application by its ID.
+            </summary>
+            <param name="id">The ID of the policy application to retrieve.</param>
+            <returns>The policy application with the specified ID if found, otherwise returns NotFound.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PolicyApplicationController.PutPolicyApplication(System.Int32,LLJ_CarInsuranceMS_RESTAPI.ViewModel.PolicyApplicationsVM)">
+            <summary>
+            Updates the details of a specific policy application.
+            </summary>
+            <param name="id">The ID of the policy application.</param>
+            <param name="polApp">The updated policy application details.</param>
+            <returns>A response indicating the success or failure of the update operation.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PolicyApplicationController.PostPolicyApplication(LLJ_CarInsuranceMS_RESTAPI.ViewModel.PolicyApplicationsVM)">
+            <summary>
+            Creates a new Policy Application.
+            </summary>
+            <param name="polApp">The details of the Policy Application to be created.</param>
+            <returns>Returns a newly created policy application along with a HTTP status code.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.PolicyApplicationController.DeletePolicyApplication(System.Int32)">
+            <summary>
+            Deletes an existing Policy Application.
+            </summary>
+            <param name="id">The ID of the Policy Application to be deleted.</param>
+            <returns>Returns an HTTP status code indicating the result of the deletion operation.</returns>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Controllers.RepairShopsController">
+            <summary>
+            API controller for managing repair shops.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.RepairShopsController.#ctor(LLJ_CarInsuranceMS_RESTAPI.Models.LLJ_CarInsuranceMS_EFDBContext)">
+            <summary>
+            Constructor for RepairShopsController.
+            </summary>
+            <param name="context">The database context.</param>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.RepairShopsController.GetRepairShops">
+            <summary>
+            Retrieves all repair shops.
+            </summary>
+            <returns>A list of repair shops.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.RepairShopsController.GetRepairShop(System.Int32)">
+            <summary>
+            Retrieves a specific repair shop by ID.
+            </summary>
+            <param name="id">The ID of the repair shop.</param>
+            <returns>The repair shop with the specified ID.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.RepairShopsController.PutRepairShop(System.Int32,LLJ_CarInsuranceMS_RESTAPI.Models.RepairShop)">
+            <summary>
+            Updates a repair shop with the specified ID.
+            </summary>
+            <param name="id">The ID of the repair shop to update.</param>
+            <param name="repairshop">The repair shop data to update.</param>
+            <returns>An IActionResult indicating the result of the operation.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.RepairShopsController.PostRepairShop(LLJ_CarInsuranceMS_RESTAPI.Models.RepairShop)">
+            <summary>
+            Creates a new repair shop.
+            </summary>
+            <param name="repairshop">The repair shop data to create.</param>
+            <returns>An ActionResult containing the created repair shop.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.RepairShopsController.DeleteRepairShop(System.Int32)">
+            <summary>
+            Deletes a repair shop with the specified ID.
+            </summary>
+            <param name="id">The ID of the repair shop to delete.</param>
+            <returns>An ActionResult indicating the result of the operation.</returns>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Controllers.UserProfileController">
+            <summary>
+            Controller for managing user profiles.
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.UserProfileController.#ctor(Microsoft.AspNetCore.Identity.UserManager{LLJ_CarInsuranceMS_RESTAPI.AuthModels.ApplicationUser},LLJ_CarInsuranceMS_RESTAPI.AuthModels.AuthenticationContext,Microsoft.AspNetCore.Identity.RoleManager{Microsoft.AspNetCore.Identity.IdentityRole})">
+            <summary>
+            Constructor for UserProfileController.
+            </summary>
+            <param name="userManager">The user manager.</param>
+            <param name="context">The authentication context.</param>
+            <param name="roleManager">The role manager.</param>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.UserProfileController.Get">
+            <summary>
+            Gets the profile information of the authenticated user.
+            </summary>
+            <returns>The profile information.</returns>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Controllers.UserProfileController.GetAllUsers">
+            <summary>
+            Gets all users' information if the current user is authorized to do so.
+            </summary>
+            <returns>The list of users' information.</returns>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.Program">
+            <summary>
+            Program.cs
+            </summary>
+        </member>
+        <member name="M:LLJ_CarInsuranceMS_RESTAPI.Program.Main(System.String[])">
+            <summary>
+            Main method.
+            </summary>
+        </member>
+        <member name="T:LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM">
+            <summary>
+            ViewModel for PotentialCustomer objects, used for representing customer data in API responses.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM.CustomerId">
+            <summary>
+            Gets or sets the ID of the customer.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM.CustomerName">
+            <summary>
+            Gets or sets the name of the customer.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM.CustomerPhone">
+            <summary>
+            Gets or sets the phone number of the customer.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM.CustomerEmail">
+            <summary>
+            Gets or sets the email address of the customer.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM.CustomerCity">
+            <summary>
+            Gets or sets the city of the customer.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM.CustomerCountry">
+            <summary>
+            Gets or sets the country of the customer.
+            </summary>
+        </member>
+        <member name="P:LLJ_CarInsuranceMS_RESTAPI.ViewModel.PotentialCustomerVM.AgentID">
+            <summary>
+            Gets or sets the agent id to the customer.
+            </summary>
+        </member>
+    </members>
+</doc>

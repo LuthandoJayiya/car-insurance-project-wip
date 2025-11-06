@@ -1,0 +1,46 @@
+﻿@model IEnumerable<LLJ_CarInsuranceMS_ASPNET.Models.PolicyVM>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    @{
+                        string imageUrl = "";
+                        switch (item.PolicyType)
+                        {
+                            case "Fully Comprehensive":
+                                imageUrl = "pinpng.com-car-crash-png-2249224.png";
+                                break;
+                            case "Third Party Fire & Theft":
+                                imageUrl = "pngegg.png";
+                                break;
+                            case "Third Party Only":
+                                imageUrl = "car-insurance-cover-storm-damage-1.png";
+                                break;
+                            default:
+                                imageUrl = "car-png-39057.png";
+                                break;
+                        }
+                    }
+                    <img src="~/images/@imageUrl" class="card-img-top" alt="Policy Image">
+
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.PolicyName)</h5>
+                        <p class="card-text"><i class="fas fa-file-alt"></i> @Html.DisplayFor(modelItem => item.PolicyType)</p>
+                        <p class="card-text"><i class="fas fa-umbrella"></i> Coverage: @Html.DisplayFor(modelItem => item.Coverage)</p>
+                        <p class="card-text"><i class="fas fa-money-bill-wave"></i> Premium: @string.Format("{0:C}", item.Premium)</p>
+                        <a href="@Url.Action("Details", "Policies", new { id = item.PolicyId })" class="btn btn-primary"><i class="fas fa-info-circle"></i> Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

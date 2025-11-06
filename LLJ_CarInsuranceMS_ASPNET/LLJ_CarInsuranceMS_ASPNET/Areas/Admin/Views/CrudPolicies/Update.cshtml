@@ -1,0 +1,56 @@
+﻿@model LLJ_CarInsuranceMS_ASPNET.Models.Policy
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/Admin/Views/_AdminLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center"><i class="fa fa-edit"></i> Update Policy</h1>
+    <div class="card mx-auto" style="max-width: 600px;">
+        <div class="card-body">
+            <form asp-action="Update">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <input asp-for="PolicyId" type="hidden" class="form-control" />
+                    <span asp-validation-for="PolicyId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PolicyType" class="control-label"><i class="fa fa-file-alt text-black"></i> Policy Type</label>
+                    <input asp-for="PolicyType" class="form-control" />
+                    <span asp-validation-for="PolicyType" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PolicyName" class="control-label"><i class="fa fa-tag text-black"></i> Policy Name</label>
+                    <input asp-for="PolicyName" class="form-control" />
+                    <span asp-validation-for="PolicyName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Coverage" class="control-label"><i class="fa fa-shield-alt text-black"></i> Coverage</label>
+                    <input asp-for="Coverage" class="form-control" />
+                    <span asp-validation-for="Coverage" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Premium" class="control-label"><i class="fa fa-dollar-sign text-black"></i> Premium</label>
+                    <input asp-for="Premium" type="number" class="form-control" />
+                    <span asp-validation-for="Premium" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ExpirationDate" class="control-label"><i class="fa fa-calendar-alt text-black"></i> Expiration Date</label>
+                    <input asp-for="ExpirationDate" type="date" class="form-control" />
+                    <span asp-validation-for="ExpirationDate" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+            <a asp-action="Index" class="btn btn-secondary mt-3"><i class="fa fa-arrow-left text-white"></i> Back to List</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

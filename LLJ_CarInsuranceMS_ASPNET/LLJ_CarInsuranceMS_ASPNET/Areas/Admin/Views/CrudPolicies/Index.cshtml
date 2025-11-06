@@ -1,0 +1,46 @@
+﻿@model IEnumerable<LLJ_CarInsuranceMS_ASPNET.Models.Policy>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/_AdminLayout.cshtml";
+}
+
+<div class="text-center">
+    <h1>Policy Management</h1>
+    <hr />
+
+    <p>
+        <a href="~/Admin/CrudPolicies/Create" class="btn btn-primary mt-10">Create New</a>
+    </p>
+</div>
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-2">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">@Html.DisplayFor(modelItem => item.PolicyName)</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@Html.DisplayFor(modelItem => item.PolicyType)</h6>
+                    <p class="card-text">
+                        <strong>Coverage:</strong> @Html.DisplayFor(modelItem => item.Coverage)<br>
+                        <strong>Premium:</strong> @Html.DisplayFor(modelItem => item.Premium)<br>
+                        <strong>Expiration Date:</strong> @Html.DisplayFor(modelItem => item.ExpirationDate)<br>
+                        <strong>Creation Date:</strong> @Html.DisplayFor(modelItem => item.CreationDate)
+                    </p>
+
+                    <a asp-action="Update" asp-route-id="@item.PolicyId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.PolicyId" class="btn btn-danger">Delete</a>
+                </div>
+            </div>
+
+        </div>
+    }
+    <div class="text-center mt-2">
+        <a asp-action="Index" asp-controller="Admin" class="btn btn-primary">
+            <i class="fa fa-home"></i> Back to Home
+        </a>
+    </div>
+</div>

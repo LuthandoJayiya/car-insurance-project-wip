@@ -1,0 +1,45 @@
+﻿@model LLJ_CarInsuranceMS_ASPNET.Areas.Admin.Models.UserProfileVM
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "UserProfile";
+    Layout = "~/Areas/Admin/Views/_AdminLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <h1>User Management</h1>
+    <div class="row">
+
+        <div class="col-md-6 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">My Details</h5>
+                    <p class="card-text"><strong>Name:</strong> @Model.FullName</p>
+                    <p class="card-text"><strong>Email:</strong> @Model.Email</p>
+                    <p class="card-text"><strong>Phone Number:</strong> @Model.PhoneNumber</p>
+                    <p class="card-text"><strong>Username:</strong> @Model.UserName</p>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">All Users</h5>
+                    <ul class="list-group">
+                        <a asp-area="Admin" asp-controller="Admin" asp-action="AllUsers" class="btn btn-primary">All Users</a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <a href="/Admin/Admin" class="btn btn-secondary mt-3">Back to Home</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

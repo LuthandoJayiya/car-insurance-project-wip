@@ -1,0 +1,42 @@
+﻿@model IEnumerable<LLJ_CarInsuranceMS_ASPNET.Models.PolicyApplication>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/_AdminLayout.cshtml";
+}
+
+<h1 class="text-center">Applications Index</h1>
+<hr />
+
+<div class="container mt-4">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <i class="fas fa-file-alt"></i> Application ID: @Html.DisplayFor(modelItem => item.ApplicationId)
+                        </h5>
+                        <p class="card-text">
+                            <strong>Customer ID:</strong> @Html.DisplayFor(modelItem => item.CustomerId)<br />
+                            <strong>Policy ID:</strong> @Html.DisplayFor(modelItem => item.PolicyId)<br />
+                            <strong>Status:</strong> @Html.DisplayFor(modelItem => item.ApplicationStatus)<br />
+                            <strong>Submitted Date:</strong> @Html.DisplayFor(modelItem => item.SubmittedDate)<br />
+                            <strong>Reviewed Date:</strong> @Html.DisplayFor(modelItem => item.ReviewedDate)<br />
+                            <strong>Approved Date:</strong> @Html.DisplayFor(modelItem => item.ApprovedDate)<br />
+                            <strong>Rejected Reason:</strong> @Html.DisplayFor(modelItem => item.RejectedReason)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="text-center mt-4">
+    <a asp-action="Index" asp-controller="Admin" class="btn btn-primary">
+        <i class="fa fa-home"></i> Back to Home
+    </a>
+</div>

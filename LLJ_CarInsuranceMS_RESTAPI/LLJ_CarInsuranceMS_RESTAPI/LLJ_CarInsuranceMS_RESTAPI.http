@@ -1,0 +1,6 @@
+@LLJ_CarInsuranceMS_RESTAPI_HostAddress = http://localhost:5273
+
+GET {{LLJ_CarInsuranceMS_RESTAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
